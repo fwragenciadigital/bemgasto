@@ -1,22 +1,23 @@
 {
-  "store_id": 1150,
-  "name": "bemgasto",
   "domain": "bemgasto.netlify.app",
-  "short_name": "bemgasto",
-  "description": "",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "_",
+    "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/bem-gasto.png",
+  "name": "bemgasto",
+  "short_name": "bemgasto",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/bem-gasto.png",
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/bem-gasto.png",
+  "store_id": 1150,
+  "description": "Reunimos os melhores produtos em decoração para sua casa, com objetivo disseminar a sensação de bem-estar no seu momento de descontração e de prazer.",
+  "large_icon": "/img/uploads/bem-gasto.png"
 }
