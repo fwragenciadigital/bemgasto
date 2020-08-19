@@ -1,5 +1,8 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "bar",
+    "decoracao"
+  ],
   "phone_wpp": true,
   "socials": true
 }
