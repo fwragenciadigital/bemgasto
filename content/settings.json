@@ -1,7 +1,7 @@
 {
   "domain": "bemgasto.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#171616",
+  "primary_color": "#dc143c",
   "theme": {
     "bootswatch": "_",
     "custom": "clean-gray"
