@@ -7,17 +7,17 @@
     "custom": "clean-gray"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/bem-gasto.png",
+  "logo": "/img/uploads/bem-gasto.jpg",
   "name": "Bem Gasto",
   "short_name": "Bem Gasto",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/bem-gasto.png",
+  "favicon": "/img/uploads/bem-gasto.jpg",
   "country_code": "BR",
   "secondary_color": "#dc143c",
-  "icon": "/img/uploads/bem-gasto.png",
+  "icon": "/img/uploads/bem-gasto.jpg",
   "store_id": 1150,
   "description": "Reunimos os melhores produtos em decoração para sua casa, com objetivo disseminar a sensação de bem-estar no seu momento de descontração e de prazer.",
-  "large_icon": "/img/uploads/bem-gasto.png"
+  "large_icon": "/img/uploads/bem-gasto.jpg"
 }
