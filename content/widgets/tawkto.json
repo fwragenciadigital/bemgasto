@@ -5,7 +5,7 @@
   "enableCheckout": false,
   "disablePages": true,
   "options": {
-    "tawktoPropertyId": "",
+    "tawktoPropertyId": "5f3f12bccc6a6a5947ad8563",
     "tawktoChatWidget": "default"
   },
   "bodyAppend": "src/append/body"
