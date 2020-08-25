@@ -1,7 +1,9 @@
 {
   "sort_categories": [
     "bar",
-    "decoracao"
+    "decoracao",
+    "beleza-e-saude",
+    "acessorios"
   ],
   "phone_wpp": true,
   "socials": true
