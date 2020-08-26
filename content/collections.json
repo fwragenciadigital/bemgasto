@@ -34,6 +34,12 @@
     {
       "type": "document-description",
       "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "sort": "sales",
+      "collection_id": "5f459d06f023684cdbdd2225"
     }
   ]
 }
