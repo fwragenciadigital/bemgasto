@@ -9,6 +9,10 @@
       "enabled": true
     },
     {
+      "type": "page-title",
+      "title": "Decore seus momentos especiais"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5f57fd6e7430f92180ed06f4",
@@ -16,27 +20,28 @@
       "sort": "news"
     },
     {
-      "type": "page-title",
-      "title": "Decore seus momentos especiais"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "sort": "news",
-      "collection_id": "5f459d06f023684cdbdd2225"
+      "collection_id": "5f57fea17430f92180ed0781"
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "5f3fdd4df023684cdbdbd121",
+      "collection_id": "5f57fe097430f92180ed0727",
       "sort": null,
       "title": "Vista sua casa"
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "5f3de8e4f023684cdbdb8048",
+      "collection_id": "5f57fede7430f92180ed0798",
       "title": "Decore seu Momentos"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "5f57fede7430f92180ed0798"
     },
     {
       "type": "document-description",
