@@ -24,6 +24,10 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
+    },
+    {
+      "src": "/img/uploads/nortonsafeweb.png",
+      "link": "https://safeweb.norton.com/report/show?url=www.bemgasto.com.br"
     }
   ],
   "payment_methods": {
