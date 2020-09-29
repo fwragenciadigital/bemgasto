@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "*bemgasto.com/*"
+  to = "https://www.bemgasto.com.br"
+  status = 302
+  force = true
+  
