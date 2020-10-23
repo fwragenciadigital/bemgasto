@@ -7,13 +7,6 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/colecao-bud800x200-_campacta.png",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
-        },
-        {
           "img": "/img/uploads/banner-alumiart-baldes.jpg",
           "alt": "Banner sample two",
           "start": "",
