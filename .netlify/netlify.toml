@@ -1,3 +1,15 @@
+[[redirects]]
+  from = "https://www.bemgasto.com/*"
+  to = "https://www.bemgasto.com.br/:splat"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://bemgasto.com/*"
+  to = "https://www.bemgasto.com.br/:splat"
+  status = 302
+  force = true
+
 [build]
   publish = "publish"
   functions = "functions-zip"
