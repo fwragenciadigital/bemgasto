@@ -4,16 +4,16 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 5,
       "slides": [
         {
-          "start": "2020-11-28T23:16:13.057Z",
+          "start": "2020-11-19T21:20:48.035Z",
           "end": "",
-          "img": "/img/uploads/bemgasto.png",
+          "img": "/img/uploads/banner-800x200-bemgasto-estella.jpg",
           "link": "https://www.bemgasto.com.br/balde-brahma-duplo-malte-ambev"
         },
         {
-          "img": "/img/uploads/colecao-bud800x200-_campacta.png",
+          "img": "/img/uploads/banner-800x200-bemgasto-teste.jpg",
           "alt": "Banner sample two",
           "start": "",
           "end": ""
