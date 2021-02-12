@@ -32,6 +32,10 @@
     {
       "src": "/img/uploads/magalu.png",
       "link": "https://www.magazineluiza.com.br/lojista/bemgasto"
+    },
+    {
+      "link": "https://www.carrefour.com.br/parceiro/bemgasto",
+      "src": "/img/uploads/logo.png"
     }
   ],
   "payment_methods": {
