@@ -36,6 +36,10 @@
     {
       "link": "https://www.carrefour.com.br/parceiro/bemgasto",
       "src": "/img/uploads/carrefour.png"
+    },
+    {
+      "src": "/img/uploads/certificado-digital.png",
+      "link": "https://www.ssllabs.com/ssltest/analyze.html?d=www.bemgasto.com.br&s=104.248.60.43"
     }
   ],
   "payment_methods": {
