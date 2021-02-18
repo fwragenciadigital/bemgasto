@@ -40,6 +40,11 @@
     {
       "src": "/img/uploads/selocertificado.png",
       "link": "https://www.ssllabs.com/ssltest/analyze.html?d=www.bemgasto.com.br&s=104.248.60.43"
+    },
+    {
+      "src": "/img/uploads/madeiramadeira.png",
+      "link": "https://www.madeiramadeira.com.br/lojista/bem-gasto",
+      "alt": "Parceiro BemGasto"
     }
   ],
   "payment_methods": {
