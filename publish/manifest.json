@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.5579ae9c81d833c707ce355fa0c3fe07.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.16c2b3cb8f197e240b533b9a2e7cdd09.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.5a015215f8c10a2ba847f2793208fb56.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.81017afbbbef01af13732b537a544870.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.ddb75e5e78a01ac58fb9a7f5e15b5ce0.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Bem Gasto",
+  "short_name": "Bem Gasto",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Reunimos os melhores produtos em decoração para sua casa, com objetivo disseminar a sensação de bem-estar no seu momento de descontração e de prazer.",
+  "background_color": "#ffffff",
+  "theme_color": "#0c4da2"
+}
