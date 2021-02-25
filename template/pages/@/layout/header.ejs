@@ -71,6 +71,20 @@ if (header.categories_list) {
     <% } %>
   <% } %>
 
+<div id="bar-top">
+ <% if (header.contacts_stripe.socials) { %>
+          <div class="col-auto">
+            <% networks.forEach(network => { %>
+              <% if (contacts[network]) { %>
+                <a href="<%= contacts[network] %>" target="_blank" rel="noopener">
+                  <i class="fab fa-<%= network %>"></i>
+                </a>
+              <% } %>
+            <% }) %>
+          </div>
+    <% } %>
+</div>
+
   <div class="top-bar__nav d-none d-md-block">
     <div class="container-fluid">
       <div class="row">
